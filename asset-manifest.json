@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wwww.pikapayments.com/static/css/main.c29bd9f9.chunk.css",
-    "main.js": "/wwww.pikapayments.com/static/js/main.d655e7a0.chunk.js",
-    "main.js.map": "/wwww.pikapayments.com/static/js/main.d655e7a0.chunk.js.map",
-    "runtime-main.js": "/wwww.pikapayments.com/static/js/runtime-main.3120fe18.js",
-    "runtime-main.js.map": "/wwww.pikapayments.com/static/js/runtime-main.3120fe18.js.map",
-    "static/js/2.d999e8b5.chunk.js": "/wwww.pikapayments.com/static/js/2.d999e8b5.chunk.js",
-    "static/js/2.d999e8b5.chunk.js.map": "/wwww.pikapayments.com/static/js/2.d999e8b5.chunk.js.map",
-    "static/js/3.ff3e7e2c.chunk.js": "/wwww.pikapayments.com/static/js/3.ff3e7e2c.chunk.js",
-    "static/js/3.ff3e7e2c.chunk.js.map": "/wwww.pikapayments.com/static/js/3.ff3e7e2c.chunk.js.map",
-    "index.html": "/wwww.pikapayments.com/index.html",
-    "static/css/main.c29bd9f9.chunk.css.map": "/wwww.pikapayments.com/static/css/main.c29bd9f9.chunk.css.map",
-    "static/js/2.d999e8b5.chunk.js.LICENSE.txt": "/wwww.pikapayments.com/static/js/2.d999e8b5.chunk.js.LICENSE.txt",
-    "static/media/PikaPaymentsLogo.ed054f09.PNG": "/wwww.pikapayments.com/static/media/PikaPaymentsLogo.ed054f09.PNG"
+    "main.css": "/static/css/main.c29bd9f9.chunk.css",
+    "main.js": "/static/js/main.d655e7a0.chunk.js",
+    "main.js.map": "/static/js/main.d655e7a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2f93c38.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2f93c38.js.map",
+    "static/js/2.d999e8b5.chunk.js": "/static/js/2.d999e8b5.chunk.js",
+    "static/js/2.d999e8b5.chunk.js.map": "/static/js/2.d999e8b5.chunk.js.map",
+    "static/js/3.ff3e7e2c.chunk.js": "/static/js/3.ff3e7e2c.chunk.js",
+    "static/js/3.ff3e7e2c.chunk.js.map": "/static/js/3.ff3e7e2c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c29bd9f9.chunk.css.map": "/static/css/main.c29bd9f9.chunk.css.map",
+    "static/js/2.d999e8b5.chunk.js.LICENSE.txt": "/static/js/2.d999e8b5.chunk.js.LICENSE.txt",
+    "static/media/PikaPaymentsLogo.ed054f09.PNG": "/static/media/PikaPaymentsLogo.ed054f09.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.3120fe18.js",
+    "static/js/runtime-main.f2f93c38.js",
     "static/js/2.d999e8b5.chunk.js",
     "static/css/main.c29bd9f9.chunk.css",
     "static/js/main.d655e7a0.chunk.js"
