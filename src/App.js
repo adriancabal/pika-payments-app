@@ -8,7 +8,7 @@ function App() {
         <img src={pikaPaymentsLogo} className="App-logo" />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p style={{color: 'black'}}>
-          Save mo money
+          We're still building it!...
         </p>
       </header>
     </div>
